@@ -1,0 +1,13 @@
+2021-11-11T16:42:00.2406515+05:30 [INF] () Application Starting...
+2021-11-11T16:42:01.0170902+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5001"
+2021-11-11T16:42:01.0188124+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5000"
+2021-11-11T16:42:01.0191865+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2021-11-11T16:42:01.0195383+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2021-11-11T16:42:01.0195764+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\WL_DATA\Code\Coreapp\webapi_serilog"
+2021-11-11T16:45:47.4521823+05:30 [INF] () Application Starting...
+2021-11-11T16:45:48.1634475+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5001"
+2021-11-11T16:45:48.1661906+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5000"
+2021-11-11T16:45:48.1664943+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2021-11-11T16:45:48.1665727+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2021-11-11T16:45:48.1666318+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\WL_DATA\Code\Coreapp\webapi_serilog"
+2021-11-11T16:46:21.6741594+05:30 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/WeatherForecast" responded 200 in 57.4559 ms
