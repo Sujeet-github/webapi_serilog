@@ -9,3 +9,12 @@ Below are the required nuget package
   - Serilog.AspNetCore
   - Serilog.Sinks.Async
   - Serilog.Sinks.RollingFile
+
+you can add below code snap to register serilog without registering it on Startup.cs
+
+Go to Program.cs --> IHostBuilder
+
+  UseSerilog((hostingContext, loggerConfig) =>
+  loggerConfig.ReadFrom.Configuration(hostingContext.Configuration));
+
+

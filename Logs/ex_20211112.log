@@ -3,3 +3,4 @@
 2021-11-12T14:38:12.2043678+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
 2021-11-12T14:38:12.2071049+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
 2021-11-12T14:38:12.2090433+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\WL_DATA\Code\Coreapp\webapi_serilog"
+2021-11-12T14:43:59.3096075+05:30 [INF] (Microsoft.Hosting.Lifetime) Application is shutting down...
