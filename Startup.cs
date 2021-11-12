@@ -47,8 +47,8 @@ namespace webapi_serilog
 
             app.UseHttpsRedirection();
 
-            app.UseSerilogRequestLogging();
-            
+            //app.UseSerilogRequestLogging();
+
             app.UseRouting();
 
             app.UseAuthorization();

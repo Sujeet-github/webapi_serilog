@@ -1,0 +1,5 @@
+2021-11-12T14:38:12.1545808+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5001"
+2021-11-12T14:38:12.2009000+05:30 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5000"
+2021-11-12T14:38:12.2043678+05:30 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2021-11-12T14:38:12.2071049+05:30 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2021-11-12T14:38:12.2090433+05:30 [INF] (Microsoft.Hosting.Lifetime) Content root path: "C:\WL_DATA\Code\Coreapp\webapi_serilog"
